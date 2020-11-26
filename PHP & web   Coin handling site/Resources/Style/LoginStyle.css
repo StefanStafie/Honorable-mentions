@@ -1,0 +1,55 @@
+@media screen and (max-width: 1080px) {
+ 
+}
+#login {
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+   
+    align-content:center;
+    justify-self: center;
+    
+    margin-top:5%;
+    border:5px;
+   height:20em;
+   width:20em;
+   fill:red;
+   background-color: rgba(90, 8, 8, 0.65);
+    text-decoration: wavy;    
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(71, 71, 71);
+
+}
+
+section h1{
+    font-family:'Lucida Sans' ;   
+    color:white;
+}
+#login2 {
+    text-decoration-style: wavy;
+    font-family: 'Lucida Sans' ;    
+    color:white;
+}
+#signinbutton {
+    width:100px;
+    margin-left:5em;
+    font-family: 'Lucida Console' ; 
+}
+#signinbutton:hover{
+    background-color: royalblue;
+    border-color: royalblue;
+}
+.link{
+    color:rgb(143, 143, 143);
+}
+.link:hover{
+    color:white;
+}
+#type{
+    display:flex;
+    align-content:center;
+    justify-content: center;
+   
+}
+

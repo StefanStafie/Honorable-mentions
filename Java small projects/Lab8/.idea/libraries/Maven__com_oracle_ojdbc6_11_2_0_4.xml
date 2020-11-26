@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: com.oracle:ojdbc6:11.2.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../sqldeveloper/jdbc/lib/ojdbc8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://mvnrepository.com/artifact/com.oracle.jdbc/ojdbc8" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

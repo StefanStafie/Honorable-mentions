@@ -1,0 +1,51 @@
+* {
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: left;
+}
+
+table * {
+    border: 1px solid black;
+    border-top: none;
+    border-radius: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#command {
+    width: 70vw;
+}
+
+input[type=submit] {
+    color: white;
+    font-size: large;
+    padding: 10px;
+    border: none;
+    border-radius: 2px;
+    background-color: darkred;
+}
+
+input[type=submit]:hover {
+    background-color: red;
+}
+
+input[type=text],
+input[type=password],
+input[type=number],
+select {
+    color: black;
+    text-shadow: none;
+    height: 30px;
+    margin: 5px;
+}
+
+select {
+    color: white;
+    background-color: black;
+}
+
+.left,
+.right {
+    padding: 20px;
+}

@@ -1,0 +1,33 @@
+table {
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 25em;
+}
+
+th {
+    color: white;
+}
+
+
+/* i have no idea what im doing here */
+
+.Profile-info {
+    height: 37em;
+    width: 70em;
+    margin-top: 5%;
+    border: 5px;
+    background-color: rgba(90, 8, 8, 0.65);
+    border-style: solid;
+}
+
+.Profile-info h1 {
+    color: rgb(67, 84, 134);
+}
+
+#center {
+    display: flex;
+    justify-content: center;
+}
+
+#contents {
+    display: flex;
+}

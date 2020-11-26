@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d0baef9-1661-4688-ba2b-c21efdc8f8a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/artifacts/Lab9_javaEEApplication_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__com_github_javafaker_javafaker_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__com_github_mifmif_generex_1_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__com_ibm_icu_icu4j_61_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__dk_brics_automaton_automaton_1_11_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_abego_treelayout_org_abego_treelayout_core_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_antlr_ST4_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_antlr_antlr4_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_antlr_antlr_runtime_3_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_12_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_4_12_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_6_0_0_Alpha5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/Maven__org_yaml_snakeyaml_android_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/libraries/mysql_connector_java_8_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/Lab9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/META-INF/application.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/Persist/Persist.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/Persist/src/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/Persistance/Persistance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/Persistance/src/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/lib/javaee.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/musicalbums.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/musicalbums/albums.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/musicalbums/albums.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/musicalbums/artists.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/musicalbums/artists.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/musicalbums/chart_record.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/musicalbums/chart_record.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/musicalbums/charts.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/musicalbums/charts.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/musicalbums/db.opt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab8/META-INF/Lab8.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Persistance/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/ro/uaic/info/myapp/app/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/ro/uaic/info/myapp/app/Artist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/ro/uaic/info/myapp/app/Chart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/ro/uaic/info/myapp/app/ChartRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/ro/uaic/info/myapp/app/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/ro/uaic/info/myapp/app/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/ro/uaic/info/myapp/dao/AlbumController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/ro/uaic/info/myapp/dao/ArtistController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/ro/uaic/info/myapp/dao/ArtistRankingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/ro/uaic/info/myapp/dao/ChartController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/main/java/ro/uaic/info/myapp/dao/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/target/classes/ro/uaic/info/myapp/app/Album.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/target/classes/ro/uaic/info/myapp/app/Artist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/target/classes/ro/uaic/info/myapp/app/Chart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/target/classes/ro/uaic/info/myapp/app/ChartRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/target/classes/ro/uaic/info/myapp/app/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/target/classes/ro/uaic/info/myapp/app/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/target/classes/ro/uaic/info/myapp/dao/AlbumController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/target/classes/ro/uaic/info/myapp/dao/ArtistController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/target/classes/ro/uaic/info/myapp/dao/ArtistRankingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/target/classes/ro/uaic/info/myapp/dao/ChartController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/target/classes/ro/uaic/info/myapp/dao/Database.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZxEtvQY30lbnjuY51IZQuUBRh0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Lab7" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d0baef9-1661-4688-ba2b-c21efdc8f8a4" name="Default Changelist" comment="" />
+      <created>1585772562956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585772562956</updated>
+      <workItem from="1585772567752" duration="12238000" />
+      <workItem from="1586335507404" duration="894000" />
+      <workItem from="1587979531997" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1585823655630">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1585823655630" />
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1585822137889">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1585822137889" />
+    <state width="1493" height="364" key="GridCell.Tab.0.bottom" timestamp="1585825512382">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585825512382" />
+    <state width="1493" height="364" key="GridCell.Tab.0.center" timestamp="1585825512382">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1585825512382" />
+    <state width="1493" height="364" key="GridCell.Tab.0.left" timestamp="1585825512382">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1585825512382" />
+    <state width="1493" height="364" key="GridCell.Tab.0.right" timestamp="1585825512382">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="364" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1585825512382" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586335507319">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1586335507319" />
+  </component>
+</project>

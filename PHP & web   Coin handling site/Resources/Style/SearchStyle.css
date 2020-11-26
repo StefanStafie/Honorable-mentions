@@ -1,0 +1,22 @@
+#search-bar {
+    display: flex;
+    align-items: flex-start;
+    align-self: flex-start;
+    flex-direction: column;
+}
+
+#compareLink {
+    background-color: darkred;
+    display: flex;
+    position: fixed;
+    bottom: 3px;
+    padding: 10px;
+}
+
+input {
+    width: 120px;
+}
+
+input[type=file] {
+    width: 180px;
+}

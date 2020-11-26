@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding = "utf-8"?>
+    <rss version="2.0">
+    <channel>
+    <title> Coins feed </title>
+    <link> http://localhost/tw/Resources/coins/search.php </link>
+    <description> This is just a description for the Coins Feed </description>
+    <language>en-us </language>
+    <image>
+    <title> Breathing is fun </title>
+    <link>https://i.ytimg.com/vi/2GSfYoGZYW4/</link>
+    <url>https://i.ytimg.com/vi/2GSfYoGZYW4/hqdefault.jpg</url>
+    <width> 150 </width>
+    <height> 124 </height>
+    </image>
+    <item>
+    <title> Most popular coins up so far  </title>
+    <link>http://localhost/tw/Resources/coins/search.php </link>
+    <description> <![CDATA[ 
+    Most Popular Coin: <br>Identifier: HCR24033<br> Diameter: 32.8<br>  Weight: 14.2<br>   Axis: 12<br>     Collection: Ashmolean Museum<br>More about this coin :http://hcr.ashmus.ox.ac.uk/coin/HCR24033<br>More about the collection :http://nomisma.org/id/ashmolean<br><img src= "http://hcr.ashmus.ox.ac.uk/images/coin/24033of.jpg" alt="" height="150" width="150"><br><img src= "http://hcr.ashmus.ox.ac.uk/images/coin/24033rf.jpg" alt="" height="150" width="150"><br><br>Most Popular Coin: <br>Identifier: THO.1705<br> Diameter: <br>  Weight: 7.320<br>   Axis: 6.00<br>     Collection: British Museum<br>More about this coin :http://collection.britishmuseum.org/id/object/CGR89034<br>More about the collection :http://nomisma.org/id/bm<br><img src= "" alt="" height="150" width="150"><br><img src= "" alt="" height="150" width="150"><br><br>Most Popular Coin: <br>Identifier: 1841,0726.1204<br> Diameter: <br>  Weight: 3.94<br>   Axis: 2<br>     Collection: British Museum<br>More about this coin :http://collection.britishmuseum.org/id/object/CGR151151<br>More about the collection :http://nomisma.org/id/bm<br><img src= "" alt="" height="150" width="150"><br><img src= "" alt="" height="150" width="150"><br><br>]]> </description>
+    </item>
+    </channel>
+    </rss>

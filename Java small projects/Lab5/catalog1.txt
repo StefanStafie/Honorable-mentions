@@ -1,0 +1,1 @@
+{"name":"nume","path":"catalog1.txt","Documents":[{"id":"doc1","location":"docs.txt","name":"matrienii"},{"id":"doc2","location":"works.txt","name":"dsada"},{"id":"doc3","location":"docFun.hx","name":"nume","limbaj":"java","versiune":"3.5"}]}

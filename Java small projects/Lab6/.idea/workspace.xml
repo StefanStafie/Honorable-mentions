@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df2cf18d-90b6-40b0-879e-4cfc6b3bbb99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab8/.idea/libraries/Maven__com_oracle_ojdbc6_11_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab8/src/main/java/ro/uaic/info/myapp/app/Tema6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/server/.idea/libraries/Maven__com_jcraft_jsch_0_1_55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/server/.idea/libraries/Maven__com_jcraft_jsch_0_1_55.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/server/0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/server/0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/server/server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/server/server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/out/production/Lab12/com/company/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/out/production/Lab12/com/company/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/src/com/company/ControlPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/src/com/company/ControlPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/src/com/company/DesignPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/src/com/company/DesignPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/src/com/company/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/src/com/company/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/src/com/company/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/src/com/company/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8/Lab8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8/Lab8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8/src/main/java/ro/uaic/info/myapp/app/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8/src/main/java/ro/uaic/info/myapp/app/Artist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8/src/main/java/ro/uaic/info/myapp/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8/src/main/java/ro/uaic/info/myapp/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8/src/main/java/ro/uaic/info/myapp/dao/ArtistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8/src/main/java/ro/uaic/info/myapp/dao/ArtistController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8/src/main/java/ro/uaic/info/myapp/dao/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8/src/main/java/ro/uaic/info/myapp/dao/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8/target/classes/ro/uaic/info/myapp/app/Artist.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8/target/classes/ro/uaic/info/myapp/app/Artist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8/target/classes/ro/uaic/info/myapp/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8/target/classes/ro/uaic/info/myapp/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8/target/classes/ro/uaic/info/myapp/dao/ArtistController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8/target/classes/ro/uaic/info/myapp/dao/ArtistController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab8/target/classes/ro/uaic/info/myapp/dao/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab8/target/classes/ro/uaic/info/myapp/dao/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZfEvvpKzJxp20WXCgZ1TrEtmLu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Lab6" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df2cf18d-90b6-40b0-879e-4cfc6b3bbb99" name="Default Changelist" comment="" />
+      <created>1585221981982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585221981982</updated>
+      <workItem from="1585221984779" duration="5262000" />
+      <workItem from="1585764098753" duration="7298000" />
+      <workItem from="1585771633581" duration="1517000" />
+      <workItem from="1587990901910" duration="50000" />
+      <workItem from="1588104229978" duration="847000" />
+      <workItem from="1589987788746" duration="790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585223013783">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1585223013783" />
+    <state x="566" y="302" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585223435282">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="566" y="302" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1585223435282" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585225222747">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1585225222747" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1585773674123">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585773674123" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1585773674123">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1585773674123" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1585773674123">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1585773674123" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1585773674123">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1585773674123" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1585771642579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1585771642579" />
+    <state x="209" y="38" key="new project wizard" timestamp="1585772562600">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1585772562600" />
+    <state x="431" y="155" key="search.everywhere.popup" timestamp="1585223570667">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1585223570667" />
+  </component>
+</project>

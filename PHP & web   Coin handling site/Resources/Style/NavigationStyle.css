@@ -1,0 +1,115 @@
+body {
+    background: repeating-linear-gradient(transparent, black 5px), repeating-linear-gradient(45deg, gray, black 5px);
+}
+
+#task {
+    margin-top: -10px;
+    display: flex;
+    position: sticky;
+    top: 0em;
+    align-content: space-around;
+    align-self: center;
+    justify-content: center;
+    max-width: 100vw;
+}
+
+.tabs {
+    color: white;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-decoration-style: wavy;
+    border-radius: 5px;
+    border: 1px solid white;
+    font-size: 23px;
+    margin-top: -10px;
+    height: 60px;
+    background-repeat: no-repeat;
+    transition: all 1s ease-in-out;
+}
+
+.tabs:hover {
+    transition: all 0.5s ease-in-out;
+    padding-left: 60px;
+}
+
+.tabs::after {
+    border-radius: 10%;
+    margin-top: 0px;
+    display: block;
+    position: relative;
+    top: -28px;
+    content: "";
+    width: 1px;
+    height: 1px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    transition: all 1s ease-in-out;
+}
+
+.tabs:hover::after {
+    transform: translate(-30px, -5px) scale(50, 50);
+}
+
+.search {
+    background: repeating-linear-gradient(transparent, black 24px), repeating-linear-gradient(-40deg, #700000, black 30px);
+}
+
+.search::after {
+    background-image: url("../Images/searchImg.png");
+}
+
+.add {
+    background: repeating-linear-gradient(transparent, black 24px), repeating-linear-gradient(40deg, #700000, black 30px);
+}
+
+.add::after {
+    background-image: url("../Images/plusImg.png");
+}
+
+.profile {
+    background: repeating-linear-gradient(transparent, black 24px), repeating-linear-gradient(-40deg, #700000, black 30px);
+}
+
+.profile::after {
+    background-image: url("../Images/profileImg.png");
+}
+
+.inventory {
+    background: repeating-linear-gradient(transparent, black 24px), repeating-linear-gradient(40deg, #700000, black 30px);
+}
+
+.inventory::after {
+    background-image: url("../Images/inventoryImg.png");
+}
+
+@media only screen and (max-width: 600px) {
+    #task {
+        display: flex;
+        width: 95vw;
+        align-content: stretch;
+    }
+    .tabs:hover::after {
+        transform: none;
+    }
+    .tabs {
+        font-size: 5vw;
+    }
+    .tabs:hover {
+        transition: none;
+        padding-left: 1em;
+    }
+    @media (min-width: 500px) {
+        .tabs {
+            font-size: 23px;
+        }
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    #task {
+        margin-left: 1vw;
+        display: flex;
+        width: 95vw;
+        align-content: stretch;
+    }
+}

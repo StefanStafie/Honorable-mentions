@@ -1,0 +1,39 @@
+@keyframes switch {
+    0% {
+        transform: skew(0deg);
+    }
+    90% {
+        transform: skew(0deg);
+    }
+    95% {
+        transform: skew(20deg);
+    }
+    96% {
+        transform: skew(-20deg);
+    }
+    97% {
+        transform: skew(20deg);
+    }
+    98% {
+        transform: skew(-20deg);
+    }
+    100% {
+        transform: skew(0deg);
+    }
+}
+
+.latest {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 80%;
+    padding-top: 45%;
+    background-image: url("../Images/coinImg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.slideShow {
+    animation: switch 8s infinite;
+    animation-direction: normal;
+}

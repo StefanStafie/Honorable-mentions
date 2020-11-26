@@ -1,0 +1,111 @@
+* {
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0px 0px 3px black, 0px 0px 3px black, 0px 0px 3px black, 0px 0px 3px black;
+    color: white;
+    text-align: center;
+}
+
+#red-canvas {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    justify-self: center;
+    margin-top: 30px;
+    border: 3px solid rgba(71, 71, 71, 1);
+    background-color: rgba(90, 8, 8, 0.6);
+    font-size: large;
+    padding: 23px;
+    font-size: large;
+}
+
+#red-canvas-orizontal {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center;
+    margin-top: 30px;
+    border: 3px solid rgba(71, 71, 71, 1);
+    background-color: rgba(90, 8, 8, 0.6);
+    font-size: large;
+    padding: 23px;
+    font-size: large;
+}
+
+#red-canvas div {
+    padding: 1.6em;
+    margin-left: 1.6em;
+    margin-right: 1.6em;
+}
+
+.cico {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cico p {
+    border-bottom: 3px dashed black;
+}
+
+a {
+    color: whitesmoke;
+}
+
+input[type=submit] {
+    color: white;
+    font-size: large;
+    padding: 10px;
+    border: none;
+    border-radius: 2px;
+    background-color: darkred;
+}
+
+input[type=submit]:hover {
+    background-color: red;
+}
+
+input[type=text],
+input[type=password],
+input[type=number],
+select {
+    color: black;
+    text-shadow: none;
+    height: 30px;
+    margin: 5px;
+}
+
+select {
+    color: white;
+    background-color: black;
+}
+
+.left,
+.right {
+    padding: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    #red-canvas-orizontal {
+        width: 90vw;
+        padding: 0px;
+        margin: 0px;
+    }
+    #red-canvas {
+        width: 90vw;
+        padding: 0px;
+        margin: 0px;
+        flex-direction: column;
+    }
+    #red-canvas div {
+        padding: 1em;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .coin {
+        flex-direction: column;
+    }
+    .coin * {
+        word-break: break-all;
+    }
+}
