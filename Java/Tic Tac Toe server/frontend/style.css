@@ -1,0 +1,51 @@
+#board {
+    margin: 0 auto; /* Centers the table horizontally */
+}
+
+.unclickable {
+    pointer-events: none;
+}
+
+#myFooter {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    max-height: calc(100vh - 600px); /* Subtracting 20px for padding and margin */
+    overflow-y: auto;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+  }
+
+#board td {
+    width: 100px; /* Set the default width of each td */
+    height: 100px; /* Set the default height of each td */
+    text-align: center; /* Centers the content of each td horizontally */
+    vertical-align: middle; /* Centers the content of each td vertically */
+    font-size: larger;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th, td {
+    text-align: center;
+}
+
+.playerX {
+    color: blue;
+}
+
+.playerO {
+    color: red;
+}

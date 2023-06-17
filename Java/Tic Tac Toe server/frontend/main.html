@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <h1>Tic Tac Toe</h1>
+    <buttons id = "buttons">
+        <div id = "winningPlayer"> </div>
+        <button onclick="CreateRoom()">Create room</button>
+        <button onclick="JoinRoom()">Join room</button>
+        <input id="roomIdText" type="text">
+    </buttons>
+    <game id = "game" style="display:none">
+        <h2 id="roomId"></h2>
+        <h2>Current Player: <span id="currentPlayer"></span></h2>
+
+        <table id="board">
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+
+        <footer id="myFooter">
+            <p>Console logs:</p>
+        </footer>
+    </game>
+    <script src="script.js"></script>
+</body>
+</html>
