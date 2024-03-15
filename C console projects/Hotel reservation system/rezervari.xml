@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<reservations>
+  <entry>
+    <client_name>John Doe</client_name>
+    <date_of_arrival>2023-01-02</date_of_arrival>
+    <date_of_departure>2023-01-02</date_of_departure>
+    <room_id>102</room_id>
+  </entry>
+  <entry>
+    <client_name>Stefan</client_name>
+    <date_of_arrival>2024-01-01</date_of_arrival>
+    <date_of_departure>2025-02-02</date_of_departure>
+    <room_id>102</room_id>
+  </entry>
+  <entry>
+    <client_name>diandra</client_name>
+    <date_of_arrival>2020-10-10</date_of_arrival>
+    <date_of_departure>2020-10-15</date_of_departure>
+    <room_id>102</room_id>
+  </entry>
+  <entry>
+    <client_name>diandra</client_name>
+    <date_of_arrival>1999-1-1</date_of_arrival>
+    <date_of_departure>1999-1-1</date_of_departure>
+    <room_id>202</room_id>
+  </entry>
+</reservations>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rooms>
+  <entry>
+    <room_id>102</room_id>
+    <comfort_type>Standard</comfort_type>
+    <price>200</price>
+  </entry>
+  <entry>
+    <room_id>202</room_id>
+    <comfort_type>Deluxe</comfort_type>
+    <price>150</price>
+  </entry>
+</rooms>
